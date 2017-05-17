@@ -1,0 +1,28 @@
+body{
+	margin-top: 20px;
+}
+
+.main{
+	padding-top: 50px;
+}
+.glyphRemove{
+	float: right;
+	font-size: 200%;
+	margin-top: 20px;
+}
+.glyphTrash{
+	float: right;
+	font-size: 200%;
+	margin-top: 3px;
+}
+h4{
+	font-family: cursive;
+	font-style: italic;
+}
+hr{
+	color: #DCDCDC;
+	background-color: #DCDCDC; /* Цвет линии для браузера Firefox и Opera */
+	height: 2px;
+
+}
+

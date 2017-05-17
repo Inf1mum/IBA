@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ProSto:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SiteDesigner.war">
+      <element id="artifact" artifact-name="ProSto:war exploded" />
+    </root>
+  </artifact>
+</component>
