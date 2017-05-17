@@ -8,9 +8,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import service.GoodService;
 
-/**
- * Created by Inf1mum on 07.08.2016.
- */
+
 @Service
 public class GoodServiceImpl implements GoodService {
 

@@ -10,9 +10,7 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import java.io.Serializable;
 import java.util.List;
 
-/**
- * Created by Inf1mum on 19.09.2015.
- */
+
 public class GenericDaoImpl<E,PK extends Serializable> implements GenericDao<E, PK> {
 
     private Class<E> type;

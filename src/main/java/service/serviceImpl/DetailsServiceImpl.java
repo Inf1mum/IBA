@@ -9,9 +9,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import service.DetailsService;
 
-/**
- * Created by Inf1mum on 09.08.2016.
- */
+
 @Service
 public class DetailsServiceImpl implements DetailsService {
 

@@ -4,9 +4,7 @@ import javax.persistence.*;
 import java.sql.Date;
 import java.util.List;
 
-/**
- * Created by Inf1mum on 07.08.2016.
- */
+
 @Entity
 @Table(name = "invoice")
 public class Invoice {

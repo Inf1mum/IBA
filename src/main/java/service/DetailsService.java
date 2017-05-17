@@ -3,9 +3,7 @@ package service;
 import entity.Details;
 import entity.Good;
 
-/**
- * Created by Inf1mum on 09.08.2016.
- */
+
 public interface DetailsService {
 
     public Integer saveDetails(Details details);

@@ -16,9 +16,7 @@ import java.util.Calendar;
 import java.sql.Date;
 import java.text.SimpleDateFormat;
 
-/**
- * Created by Inf1mum on 10.08.2016.
- */
+
 @Controller
 @RequestMapping("/invoice")
 public class InvoiceController extends BaseController {

@@ -10,9 +10,7 @@ import java.sql.Date;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Inf1mum on 07.08.2016.
- */
+
 public class InvoiceDaoImpl extends GenericDaoImpl<Invoice,Integer> implements InvoiceDao {
 
     public InvoiceDaoImpl() {

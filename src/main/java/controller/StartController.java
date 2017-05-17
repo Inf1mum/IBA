@@ -13,9 +13,7 @@ import service.InvoiceService;
 
 import java.util.List;
 
-/**
- * Created by Inf1mum on 20.09.2015.
- */
+
 @Controller
 @RequestMapping("/")
 public class StartController extends BaseController {

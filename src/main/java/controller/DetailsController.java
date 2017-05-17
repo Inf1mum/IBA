@@ -13,9 +13,6 @@ import service.InvoiceService;
 
 import java.util.List;
 
-/**
- * Created by Inf1mum on 09.08.2016.
- */
 @Controller
 @RequestMapping("/details")
 public class DetailsController extends BaseController {

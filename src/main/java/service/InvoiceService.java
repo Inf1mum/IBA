@@ -6,9 +6,7 @@ import entity.dto.InvoiceDTO;
 
 import java.util.List;
 
-/**
- * Created by Inf1mum on 07.08.2016.
- */
+
 public interface InvoiceService {
 
     public Integer saveInvoice(Invoice invoice);

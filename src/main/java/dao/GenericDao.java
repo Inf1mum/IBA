@@ -3,9 +3,7 @@ package dao;
 import java.io.Serializable;
 import java.util.List;
 
-/**
- * Created by Inf1mum on 19.09.2015.
- */
+
 public interface GenericDao<E, PK extends Serializable> {
 
     void update(E obj);

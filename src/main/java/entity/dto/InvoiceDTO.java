@@ -5,9 +5,7 @@ import entity.Invoice;
 import javax.persistence.Entity;
 import java.sql.Date;
 
-/**
- * Created by Inf1mum on 08.08.2016.
- */
+
 
 public class InvoiceDTO {
 

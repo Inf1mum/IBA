@@ -3,9 +3,7 @@ package entity;
 import javax.persistence.*;
 import java.util.List;
 
-/**
- * Created by Inf1mum on 09.08.2016.
- */
+
 @Entity
 @Table(name = "details")
 public class Details {
